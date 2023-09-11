@@ -1,0 +1,26 @@
+body{
+	background-color:
+}
+.logo{
+	height: 70px;
+	width: 80px;
+	margin-left: 52px;
+}
+form{
+	margin-top: 50px;
+	display: grid;
+	grid-template-column:1fr ;
+}
+.i1{
+	width: 180px;
+	height: 40px;
+}
+.leg{
+font-size: 30px;
+}
+.but{
+	width: 180px;
+}
+.j{
+	width: 11%;
+}

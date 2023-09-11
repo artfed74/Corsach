@@ -1,0 +1,85 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.bob{
+	background-color:rgb(211,211,211);
+}
+.b:hover{
+	opacity: 1;
+	border-radius: 100px;
+	background-color: black;
+	color: #fff;
+	padding: 10px 20px;
+	transform:scale(1.10);
+	box-shadow: 0 9px 9px rgba(36.33.36,.5);
+	transition: all .1s ease-in-out;
+}
+.b{
+	text-decoration: none;
+	color: black;
+	opacity: 1;
+	transition: all .1s ease-in-out;
+	font-size: 20px;
+}
+.first{
+	background-color: white;
+}
+.car{
+	display: block;
+	width: 300px;
+
+}
+.r{
+	background-color: white;
+	height: 500px;
+	font-size: 20px;
+}
+.btn{
+	margin-top: 5px;
+	margin-left: 10px;
+	width: 100px;
+}
+.search{
+	margin-left: 100px;
+}
+.but{
+	padding-left: 650px;	}
+.img{
+	height: 131px;
+	width: 166px;
+}
+.one{
+	background-color: white;
+	margin-top: 10px;
+}
+.nav2{
+	background-color: black;
+	
+}
+.m{
+	font-size: 15px;
+}
+.fot{
+	background-color: #343434;
+}
+.fot h4{
+	color:white;
+	text-transform: uppercase;
+	border-bottom: 2px solid #666;
+}
+.fot a{
+	text-decoration: none;
+	transition: all 0.3s;
+	color: #c8c8c8;
+}
+.fot a:hover{
+	color: white;
+}
+.gg:hover{
+	transition: all 0.3s;
+	transform: scale(1.03);
+}
+.border{
+	border-radius: 10px;;
+}
